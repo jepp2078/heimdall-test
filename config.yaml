@@ -1,0 +1,12 @@
+configVersion: v1
+metadata:
+  author: Example
+configuration:
+  - name: encrypted
+    value: encrypted-value
+    encrypted: true
+    namespace: default
+  - name: unencrypted
+    value: unencrypted-value
+    encrypted: false
+    namespace: default
