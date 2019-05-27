@@ -10,3 +10,6 @@ configuration:
   - name: unencrypted
     value: unencrypted-value
     encrypted: false
+  - name: jeppe
+    value: jeppe
+    encrypted: false
