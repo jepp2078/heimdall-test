@@ -1,6 +1,7 @@
 configVersion: v1
 metadata:
   author: Example
+  id: test-123
 configuration:
   - name: encrypted
     value: encrypted-value
