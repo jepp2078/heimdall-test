@@ -1,7 +1,7 @@
 configVersion: v1
 metadata:
   author: Example
-  id: testConfig
+  name: test-config
   namespace: default
 configuration:
   - name: encrypted
