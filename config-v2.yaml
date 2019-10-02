@@ -4,12 +4,12 @@ metadata:
   name: test-config
   namespace: default
 configuration:
-  - name: encrypted
-    value: encrypted-value
-    encrypted: true
-  - name: unencrypted
-    value: unencrypted-value
-    encrypted: false
-  - name: jeppe
-    value: jeppe
-    encrypted: false
+- name: encrypted
+  value: YPqdLb6GANPxM+Edv1e111CwPf78yDwapCKBPEzt4TeIUKJYZyUqaNQnkVMBAfYkgHMHBU/fGqoycfSdruebN10mkqeXnkmz4RcBAeztHuCyDJhRtvdmZ77/6DMRI1cBmNiAmcUoMa38k2BnOCy/AQ7msOrrlm6veM6J7Uu9JX8phZJ+UyQim+WuM7z689PvPIQaeeYNRx/pdP5wSgthS0g04VoxXlHMVA5OJLbl6dSAEm9E7/JB+eMUwLxu3JgB9ZSAa9xC6x3fugj8TIlMo/ih6focebyojVHeEyaiD3MRNXVvyUzopbe2NEN43rzMyNmYZmHLo2mNDUIosXNpmw==
+  encrypted: true
+- name: unencrypted
+  value: unencrypted-value
+  encrypted: false
+- name: jeppe
+  value: jeppe
+  encrypted: false
